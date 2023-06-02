@@ -1,2 +1,2 @@
-# hangmangame_site
-A Hangman (game) site
+# Hangman The Game Site
+A Hangman (game) site.
